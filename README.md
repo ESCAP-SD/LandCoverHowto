@@ -14,6 +14,8 @@ The guide is based on **ESCAP training materials** developed for land cover acco
 📄 **[Download the step-by-step guide (PDF)](https://github.com/ESCAP-SD/LandCoverHowto/blob/main/20250507_AFTER_MarchApril_training_SENT.pdf)**  
 An interactive HTML version of the guide is under development.
 
+**Note:** Throughout this guide, we sometimes use maps to visualize both geospatial data and outcomes. The boundaries and names shown and the designations used on these maps do not imply official endorsement or acceptance by the United Nations.
+
 ## 📊 Workflow Components
 
 ### Component 1: Prepare ROIs and Imagery
